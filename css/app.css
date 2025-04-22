@@ -1,0 +1,9 @@
+
+h1 { width:259px; height:72px; background:url('img/logo.png'); display:block; float:left; padding:30px; }
+h1 span {display:none;}
+
+h2 {font-family: "artifex-hand-cf", "Georgia", serif; letter-spacing: -2px; font-size:72px; color:#28352C; }
+h3 {font-family: "artifex-hand-cf", "Georgia", serif; letter-spacing: -2px; font-size:40px; color:#28352C; }
+
+h4 { font-family: "avenir-lt-pro", "arial", sans-serif; color:#4EBBC3; }
+p { font-family: "avenir-lt-pro", "arial", sans-serif; color:#4EBBC3; }
